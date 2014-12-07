@@ -1,0 +1,15 @@
+{
+    "name": "VectorTilesReader",
+    "version": "0.0.0",
+    "description": "VectorTilesReader",
+    "main": "app.js",
+    "author": {
+        "name": "PoulKjeldager",
+        "email": "pks@s-innovations.net"
+    },
+
+    "devDependencies": {
+        "protobufjs": "3.8.2",
+        "zlib": "1.0.5"
+    }
+}
